@@ -1,4 +1,4 @@
-# PCA and Factor Analysis Political Opinion
+# PCA and Factor Analysis of Political Opinion
 
 This repository presents an exploratory data analysis and multivariate statistical modeling project, focused on uncovering the complex dimensions of political opinions in the United States. By leveraging Principal Component Analysis (PCA) and Factor Analysis (FA) on survey data from the Pew Research Center, the project identifies latent structures that influence public attitudes on key societal issues.
 
